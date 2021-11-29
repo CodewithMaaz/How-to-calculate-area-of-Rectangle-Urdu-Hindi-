@@ -8,3 +8,5 @@ Length = int(Length)
 finalarea = Length * wigth
 Text= "Your Area is %s "
 print( Text % finalarea )
+
+#made by code with maaz
